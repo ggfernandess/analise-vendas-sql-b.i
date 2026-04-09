@@ -26,7 +26,7 @@ A proposta é simular um cenário real de análise de dados, desde a organizaç�
 ---
 
 ## 📷 Dashboard
-![Dashboard][(./imagens/dashboard.png)](https://raw.githubusercontent.com/ggfernandess/analise-vendas-sql-b.i/refs/heads/main/projeto-analise-vendas/imagens/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/ggfernandess/analise-vendas-sql-b.i/main/imagens/dashboard.png)
 
 ---
 
