@@ -1,0 +1,13 @@
+﻿id_venda;data_venda;produto;categoria;quantidade;preco_unitario;cidade;faturamento;nome_mes;;;;;
+1;04/02/2026;Mouse;Acessórios;2;50,00;Curitiba; R$ 100,00 ;fevereiro;;;Quantidade total vendida;;
+2;04/06/2026;Teclado;Acessórios;1;120,00;São Paulo; R$ 120,00 ;junho;;;18;;
+3;04/01/2026;Monitor;Eletrônicos;1;900,00;Curitiba; R$ 900,00 ;janeiro;;;;;
+4;04/03/2026;Notebook;Informática;1;3500,00;Rio de Janeiro; R$ 3.500,00 ;março;;;Faturamento total;;
+5;04/05/2026;Headset;Acessórios;3;180,00;Curitiba; R$ 540,00 ;maio;;; R$ 11.080,00 ;;
+6;04/12/2026;Mouse;Acessórios;4;50,00;Santa Catarina; R$ 200,00 ;dezembro;;;;;
+7;04/07/2026;Monitor;Eletrônicos;2;900,00;São Paulo; R$ 1.800,00 ;julho;;;Total de registros;;
+8;04/04/2026;Notebook;Informática;1;3500,00;Curitiba; R$ 3.500,00 ;abril;;;10;;
+9;04/02/2026;Teclado;Acessórios;2;120,00;Curitiba; R$ 240,00 ;fevereiro;;;;;
+10;04/11/2026;Headset;Acessórios;1;180,00;Santa Catarina; R$ 180,00 ;novembro;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
