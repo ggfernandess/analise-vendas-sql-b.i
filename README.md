@@ -26,7 +26,7 @@ A proposta é simular um cenário real de análise de dados, desde a organizaç�
 ---
 
 ## 📷 Dashboard
-![Dashboard](imagens/dashboard.png)
+(imagens/dashboard.png)
 
 ---
 
